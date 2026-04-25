@@ -4,7 +4,7 @@ A simple, beautiful, and efficient full stack Todo application built as an assig
 
 ## 📸 Screenshots
 
-![Todo App UI](./screenshot.png)
+![Todo App UI](./Screenshot.png)
 
 ## 🚀 Features
 
